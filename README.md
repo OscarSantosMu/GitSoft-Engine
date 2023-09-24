@@ -27,7 +27,7 @@ The following image shows the general architecture and workflow from GitSoft-Eng
 ### Backend
 Follow [Backend README](https://github.com/Ricardo-Jaramillo/GitSoft-Engine) to get started.
 
-> We have also built a public API available for developers. To use it, review the [API Documentation](https://your-api-documentation-url.com) to familiarize yourself with the available endpoints and their functionality.
+> We have also built a public API available for developers. To use it, review the [API Documentation](http://20.225.244.87:8000/docs) to familiarize yourself with the available endpoints and their functionality.
 
 ### Frontend
 Follow [Frontend README](https://github.com/JG-11/GitSoft-Engine-Frontend) to get started.
